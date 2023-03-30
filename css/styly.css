@@ -112,7 +112,7 @@ li strong:first-child{
     * použitý font bude o 10% menší než základní písmo
     * písmo bude nakloněné (kurzíva)
 */
-.poznamky{
+.poznamka{
   border-left: 10px solid grey;
   padding-left: 50px;
   font-size: 90%;
